@@ -1,0 +1,78 @@
+HTML Class 1
+
+Hypertext Markup Language - Markup is the manin key as there are few markup languages to describe words appear on the screen or a web page
+
+Tool - Codepen.io
+
+Html element conists of opening or start tag and a closing tag or end tag and a content in between 
+
+Self closing tags - <br> <hr>
+
+Documentation - devdocs.io 
+
+A tag can have an element and an attribute
+
+Comments : <!-- Comments can be written here -->
+
+web.archieve.org - internet archieve wayback machine --- how websites look way back 
+
+https://www.gutenberg.org/files/1661/1661-h/1661-h.htm
+
+Boilerplate of html -
+
+<!DOCTYPE html> - latest version
+
+<html> has got two parts head and a body
+
+<head>
+<meta charset="utf-8">
+<title></title>
+
+</head>
+
+
+unicode-table.com to find meta code utf-8 symbols and emojis
+
+
+Img tag is also a self closing tag
+
+To be continued from section 2 19
+
+Class 2 
+
+anker tag <a>
+
+
+Complete MDN Documentation of all the above tags learnt 
+
+------------BASIC HTML END------------------
+
+Now comes the Intermediate HTML
+
+Lean Deprecated meaning and what are those
+
+
+Tables :
+
+<table>
+	<thead>
+		<th> </th>
+	</thead>
+
+	<tbody>
+		<tr> <td> </td> </tr>
+	</tbody>
+
+	<tfoot>
+	</tfoot>
+</table>
+
+Nested tables
+
+Forms :
+
+Label
+Input types
+action mailto enctype text/plain
+
+Github - 28 sec 23
